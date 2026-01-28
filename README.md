@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# pastebin-lite
+Pastebin-Lite is a lightweight web app to create and share text pastes via unique URLs, with optional time-based expiry and view-count limits. It provides REST APIs, an HTML view, and uses persistent storage for reliable serverless deployment.
+>>>>>>> 8b70f3c9d11208c6d3e762773e6f9c6d7936cd71
